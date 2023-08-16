@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Jordan Valinsky",
+        "title": "Thousands of flights are delayed or canceled following severe storms - CNN",
+        "description": "Thousands of flights have been delayed or canceled Tuesday following a round of severe storms that hammered the eastern United Sates.",
+        "url": "https://www.cnn.com/2023/08/08/business/flight-delays-cancellations/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230808073955-01-ohare-airport-080723.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-08-08T13:55:00Z",
+        "content": "Thousands of flights have been delayed or canceled Tuesday following a round of severe storms that hammered the eastern United Sates.\r\nMore than 330 flights were canceled early Tuesday, with another … [+1164 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Bhanvi Satija, Mariam Sunny",
+        "title": "Eli Lilly raises forecasts as diabetes drug Mounjaro powers upbeat results - Reuters",
+        "description": "Eli Lilly <a href=\"https://www.reuters.com/markets/companies/LLY.N\" target=\"_blank\">(LLY.N)</a> on Tuesday raised its annual forecasts after beating estimates for quarterly results, driven by strong demand for its new diabetes drug Mounjaro, ahead of a decisi…",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-beats-profit-estimates-strength-new-diabetes-drug-2023-08-08/",
+        "urlToImage": "https://www.reuters.com/resizer/B8A9o9kUy8b2-h1V1NisDGv3gvc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BTF3JZRRAVLHFMOO4XPWKIUA7Q.jpg",
+        "publishedAt": "2023-08-08T13:48:00Z",
+        "content": "Aug 8 (Reuters) - Eli Lilly (LLY.N) on Tuesday raised its annual forecasts after beating estimates for quarterly results, driven by strong demand for its new diabetes drug Mounjaro, ahead of a decisi… [+2260 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Guardian"
+        },
+        "author": "Andrew Pulver",
+        "title": "Sandra Bullock’s partner Bryan Randall dies aged 57 - The Guardian",
+        "description": "The photographer, who Bullock described as ‘the love of my life’, died after a three-year battle with ALS, the most common form of motor neurone disease",
+        "url": "https://www.theguardian.com/film/2023/aug/08/sandra-bullock-partner-bryan-randall-dies-aged-57",
+        "urlToImage": "https://i.guim.co.uk/img/media/91a9963bab87c45f530093e68555c0bbe5d7eeea/87_56_2857_1714/master/2857.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e20ffeff38a155e113f7a0f59dbe29f",
+        "publishedAt": "2023-08-08T13:42:00Z",
+        "content": "Bryan Randall, the longtime partner of Sandra Bullock, has died aged 57 from ALS (amyotrophic lateral sclerosis), it has been announced.\r\nIn a statement to People magazine, Randalls family said that … [+882 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Hugh Son",
+        "title": "Banks hit with $549 million in fines for use of Signal, WhatsApp to evade regulators’ reach - CNBC",
+        "description": "Wells Fargo, a relatively small player on Wall Street, racked up the most fines Tuesday, with a total of $200 million in penalties.",
+        "url": "https://www.cnbc.com/2023/08/08/regulators-hit-wall-street-banks-with-549-million-in-penalties-for-record-keeping-failures-.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107119309-16632582102022-09-15t152004z_1243963989_rc2khw9fcbjv_rtrmadp_0_usa-congress-sec.jpeg?v=1691499788&w=1920&h=1080",
+        "publishedAt": "2023-08-08T13:03:08Z",
+        "content": "U.S. Securities and Exchange Commission (SEC) Chairman Gary Gensler, testifies before the Senate Banking, Housing and Urban Affairs Committee during an oversight hearing on Capitol Hill in Washington… [+3587 chars]"
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Ramy Inocencio",
+        "title": "Russia hits Ukraine with deadly hypersonic missile strike as Kyiv claims local women spying for Moscow - CBS News",
+        "description": "Ukraine's SBU intelligence service says it arrested a small group \"exclusively of local women who supported the armed aggression\" by Russia.",
+        "url": "https://www.cbsnews.com/news/russia-ukraine-war-hypersonic-missile-pokrovsk-local-women-spy-network/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/08/c673f2e4-cc4e-4347-8b7a-93a4e4a6a64a/thumbnail/1200x630g8/60067874bbfba78e7b9f193e8272d357/pokrovsk-ukraine-russian-strike-2023.jpg?v=4c3eff96812a3b6c2e014b1daed33369",
+        "publishedAt": "2023-08-08T12:51:00Z",
+        "content": "Odesa, Ukraine — About 30 miles from the front line in eastern Ukraine, two Russian hypersonic missiles damaged an apartment building and a hotel popular with international journalists covering the w… [+4414 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Niger coup: Wagner taking advantage of instability - Antony Blinken - BBC",
+        "description": "There are concerns the Russian mercenary group may be gaining influence in the country.",
+        "url": "https://www.bbc.com/news/world-africa-66436797",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1368/production/_130686940_blinken.jpg",
+        "publishedAt": "2023-08-08T12:28:37Z",
+        "content": "Russia's Wagner mercenary group is \"taking advantage\" of instability in Niger, US Secretary of State Antony Blinken has told the BBC.\r\nThe country has been ruled by a junta following the ousting of P… [+4487 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Jim Sciutto",
+        "title": "Western allies receive increasingly 'sobering' updates on Ukraine's counteroffensive: 'This is the most difficult time of the war' - CNN",
+        "description": "Weeks into Ukraine’s highly anticipated counteroffensive, Western officials describe increasingly “sobering” assessments about Ukrainian forces’ ability to retake significant territory, four senior US and western officials briefed on the latest intelligence t…",
+        "url": "https://www.cnn.com/2023/08/08/politics/ukraine-counteroffensive-us-briefings/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230715092024-01-ukraine-counteroffensive-status-intl-0715.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-08-08T12:19:00Z",
+        "content": "Weeks into Ukraines highly anticipated counteroffensive, Western officials describe increasingly sobering assessments about Ukrainian forces ability to retake significant territory, four senior US an… [+4430 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Ohio special election may be crucial in abortion fight - CBS Mornings",
+        "description": null,
+        "url": "https://www.youtube.com/watch?v=cwgmSCsJ8mw",
+        "urlToImage": null,
+        "publishedAt": "2023-08-08T12:03:26Z",
+        "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Lili Loofbourow",
+        "title": "Review | 'Only Murders in the Building' regains its cozy confidence - The Washington Post",
+        "description": "The third season of « Only Murders in the Building » is a pleasant surprise: less frenetic, more confident and more character-driven.",
+        "url": "https://www.washingtonpost.com/entertainment/tv/2023/08/08/only-murders-building-season-three/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RV5AS3CCGNBIDCUDKGWZR2Y2WM.jpg&w=1440",
+        "publishedAt": "2023-08-08T12:00:00Z",
+        "content": "Comment on this story\r\nComment\r\nIf Only Murders in the Building started as a satire of cozy true-crime podcasts, it quickly surrendered to the genres ghoulish pleasures. Now entering its third season… [+5937 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Aimee Lewis",
+        "title": "Colombia advances to Women’s World Cup quarterfinals for the first time after victory over Jamaica - CNN",
+        "description": "",
+        "url": "https://www.cnn.com/2023/08/07/football/colombia-jamaica-france-morocco-womens-world-cup-spt-intl/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230808041443-04-colombia-jamaica-wwc-2023.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-08-08T11:04:00Z",
+        "content": "Colombia reached the Womens World Cup quarterfinals for the first time in the countrys history after a nervy 1-0 victory over Jamaica in Melbourne on Tuesday, while France confidently knocked out Mor… [+5790 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Sports Illustrated"
+        },
+        "author": "Pat Forde",
+        "title": "The ACC’s Interest in California and Stanford Isn’t As Illogical As It Sounds - Sports Illustrated",
+        "description": "The Atlantic Coast Conference’s exploration of adding the two West Coast schools has more to do with discontent in its own ranks rather than common sense.",
+        "url": "https://www.si.com/college/2023/08/08/acc-expansion-interest-california-stanford-making-sense",
+        "urlToImage": "https://www.si.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTk5OTI3NDIzOTkzNjUyMzI3/california-stanford-football.jpg",
+        "publishedAt": "2023-08-08T11:00:00Z",
+        "content": "There would be nothing reasonable or rational about California and Stanford joining the Atlantic Coast Conference. But these are not reasonable, rational times. These are desperate times, and this wo… [+8546 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Passant Rabie",
+        "title": "Boeing Determined to Launch Starliner Crewed Flight - Gizmodo",
+        "description": "The company is anticipating that its Starliner crew capsule will be ready for flight in March 2024 following a critical test of its parachute system.",
+        "url": "https://gizmodo.com/boeing-starliner-crewed-flight-launch-troubles-losses-1850714559",
+        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/93a4e3f211e95c3755ec5bd773fcd34c.jpg",
+        "publishedAt": "2023-08-08T11:00:00Z",
+        "content": "Following several delays and over $1 billion in losses, Boeing claims its troubled Starliner program will be ready to launch crews to the International Space Station (ISS) by early 2024 as it works t… [+4239 chars]"
+      },
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": "Bill Barnwell",
+        "title": "NFL breakout players for 2023 -- Predicting next wave of stars - ESPN - ESPN",
+        "description": "Which NFL players could go from Pro Bowlers to All-Pros? How about bounce back from rough seasons? We made 23 picks.",
+        "url": "https://www.espn.com/nfl/insider/insider/story/_/id/38149478/predicting-nfl-breakout-players-2023-season-bill-barnwell-next-stars",
+        "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0807%2Fr1207641_1296x729_16%2D9.jpg",
+        "publishedAt": "2023-08-08T10:35:00Z",
+        "content": "As we preview the NFL season, there's a natural urge for us to point to potential breakout players in 2023. It's a process our experts begin a week after the Super Bowl and through the opening game, … [+29810 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "David Ovalle, Laurie McGinley",
+        "title": "Patients grapple with side effects of popular weight-loss drugs - The Washington Post",
+        "description": "The medications help people lose significant weight but can cause nausea and other complications.",
+        "url": "https://www.washingtonpost.com/health/2023/08/08/weight-loss-drugs-side-effects-wegovy-ozempic/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H4RGA4DPPHUAKL7SKFGL7RGYKM.jpg&w=1440",
+        "publishedAt": "2023-08-08T10:09:45Z",
+        "content": "Comment on this story\r\nComment\r\nAfter years of fad diets and even gastric bypass surgery, Robin Demoy turned to the weight-loss drug Wegovy. The once-a-week injection helped the New Hampshire travel … [+11959 chars]"
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Alexander Tin",
+        "title": "Loss of smell or taste was once a telltale sign of COVID. Not anymore. - CBS News",
+        "description": "The latest research suggests a prevalence of just 3% to 4% for this once-common symptom in recent waves.",
+        "url": "https://www.cbsnews.com/news/covid-symptoms-loss-of-smell-taste-less-common-omicron-study/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/07/0b1e93ce-cfee-4a5a-a8fc-2340d4e34526/thumbnail/1200x630/ac6fdebeae0dc8419c95c02a71afeadb/nose-mouth-shadows-getty-images.jpg?v=4c3eff96812a3b6c2e014b1daed33369",
+        "publishedAt": "2023-08-08T10:00:19Z",
+        "content": "Once a hallmark sign of many COVID-19 cases — sometimes more reliable than even flu-like symptoms at sniffing out people infected by the virus early in the pandemic — was the sudden loss of smell and… [+5823 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Quartz India"
+        },
+        "author": "Faustine Ngila",
+        "title": "Zoom wants to train its AI on content from all user calls - Quartz",
+        "description": "In new terms and conditions, Zoom gave itself wide scope to scoop up content from the video calls of its customers",
+        "url": "https://qz.com/zoom-video-calls-updated-terms-user-data-ai-training-1850712394",
+        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bbc8e2997c73106c1a5b3f438a9f4c86.jpg",
+        "publishedAt": "2023-08-08T09:34:00Z",
+        "content": "In March, Zoom changed a small section of fine print in its terms of service, asserting all right, title, and interest to the data generated from user calls. The California-based videoconferencing co… [+2665 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Dexerto"
+        },
+        "author": "Sayem Ahmed",
+        "title": "Valve is making the Steam Deck even cheaper but there’s a catch - Dexerto",
+        "description": "Valve has started to make the Steam Deck even cheaper, by selling certified refurbished models of the device at a slight discount.",
+        "url": "https://www.dexerto.com/tech/valve-steam-deck-even-cheaper-2240756/",
+        "urlToImage": "https://editors.dexerto.com/wp-content/uploads/2022/07/29/sd-review9.jpg",
+        "publishedAt": "2023-08-08T09:05:57Z",
+        "content": "Valve has started to make the Steam Deck even cheaper, by selling certified refurbished models of the device at a slight discount. \r\nValves Steam Deck is the king of handhelds at the moment. Its size… [+1949 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "David Stanway",
+        "title": "No quick fix to reverse Antarctic sea ice loss as warming intensifies, scientists say - Reuters",
+        "description": "Sea ice in the Antarctic region has fallen to a record low this year as a result of rising global temperatures and there is no quick fix to reverse the damage done, scientists said on Tuesday in a new study of the impact of climate change on the continent.",
+        "url": "https://www.reuters.com/world/no-quick-fix-reverse-antarctic-sea-ice-loss-warming-intensifies-scientists-2023-08-08/",
+        "urlToImage": "https://www.reuters.com/resizer/PEYWK2KQCjuNntW_Cf2M9BrmDhQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7U4TVGCZSVO6HBU5FRPHIBMBMQ.jpg",
+        "publishedAt": "2023-08-08T08:46:00Z",
+        "content": "SINGAPORE, Aug 8 (Reuters) - Sea ice in the Antarctic region has fallen to a record low this year as a result of rising global temperatures and there is no quick fix to reverse the damage done, scien… [+3107 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Dan Heching",
+        "title": "William Friedkin, ‘Exorcist’ director, dead at 87 - CNN",
+        "description": "William Friedkin, director of iconic 1970s films including “The French Connection” and “The Exorcist,” has died, his wife Sherry Lansing, the former CEO of Paramount Pictures, told The Hollywood Reporter on Monday.",
+        "url": "https://www.cnn.com/2023/08/07/entertainment/william-friedkin-death/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230807140721-william-friedkin-pwl.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-08-08T08:37:00Z",
+        "content": "William Friedkin, director of iconic 1970s films including The French Connection and The Exorcist, has died, his wife Sherry Lansing, the former CEO of Paramount Pictures, told The Hollywood Reporter… [+2660 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SciTechDaily"
+        },
+        "author": null,
+        "title": "Remarkable Chinese Fossil Reveals Reptiles Using Whale-Like Filter Feeding 250 Million Years Ago - SciTechDaily",
+        "description": "New research has unveiled a 250-million-year-old reptile fossil, Hupehsuchus, in China, showing that it used a whale-like filter-feeding method. This discovery highlights the creature's unique adaptations and provides insight into early marine ecosystems. A r…",
+        "url": "https://scitechdaily.com/?p=298851",
+        "urlToImage": "https://scitechdaily.com/images/Hupehsuchus-Reconstruction-scaled.jpg",
+        "publishedAt": "2023-08-08T08:31:12Z",
+        "content": "Reconstruction of Hupehsuchus about to engulf a shoal of shrimps. Credit: Artwork by Shunyi Shu, © Long Cheng, Wuhan Center of China Geological Survey\r\nNew research has unveiled a 250-million-year-ol… [+1641 chars]"
+      }
+    ]
+  }
